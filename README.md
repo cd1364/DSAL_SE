@@ -4,9 +4,13 @@ SPPU assignments of Second Year Data Structure &amp; Algorithm
 
 # Course Outcome
 CO1: Analyze algorithms and to determine algorithm correctness and time efficiency class.
+
 CO2: Implement abstract data type (ADT) and data structures for given application.
+
 CO3: Design algorithms based on techniques like brute -force, divide and conquer, greedy, etc.).
+
 CO4: Solve problems using algorithmic design techniques and data structures.
+
 CO5: Analyze of algorithms with respect to time and space complexity.
 
 # Problem Statements 
