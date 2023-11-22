@@ -1,5 +1,5 @@
 # DSAL_SE
-SPPU assignments of Second Year Data Structure &amp; Algorithm
+SPPU assignments of Second Year IT (2019 pattern) Data Structure &amp; Algorithm
 
 
 # Course Outcome
